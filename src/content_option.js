@@ -19,7 +19,7 @@ const introdata = {
 const dataproject = [{
     img: "./projects/micro/cover.png",
     desctiption: "Micro's Portfolio.",
-    link: "https://matbot.kmitl.ac.th/lab/micro/",
+    link: "https://matbot.kmitl.ac.th/lab/projects/micro/",
 },
     // {
     //     img: "./projects/second_project/cover.png",
