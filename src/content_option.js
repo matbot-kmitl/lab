@@ -17,7 +17,7 @@ const introdata = {
 
 // Start Edit here
 const dataproject = [{
-    img: "./_banner/micro/cover.png",
+    img: "./assets/micro/cover.png",
     desctiption: "Micro's Portfolio.",
     link: "https://matbot.kmitl.ac.th/lab/projects/micro/",
 },
