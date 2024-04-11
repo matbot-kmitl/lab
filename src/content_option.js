@@ -1,5 +1,3 @@
-import MicroImg from "../public/projects/micro/cover.png";
-
 const logotext = "MATBOT KMITL";
 const meta = {
     title: "MATBOT Lab | Smart Materials & Robotics AI Engineering, KMITL",
@@ -19,7 +17,7 @@ const introdata = {
 
 // Start Edit here
 const dataproject = [{
-    img: MicroImg,
+    img: "./_banner/micro/cover.png",
     desctiption: "Micro's Portfolio.",
     link: "https://matbot.kmitl.ac.th/lab/projects/micro/",
 },
