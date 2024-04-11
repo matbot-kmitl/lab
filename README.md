@@ -1,4 +1,5 @@
 # MATBOTLab
+
 MATBOT Lab Homepage Repo
 
 Original Repo from ubaimutl
@@ -8,12 +9,11 @@ https://github.com/ubaimutl/react-portfolio/tree/master
 
 Get the code
 
-<pre>git clone https://github.com/piyawudk/MATBOTLab.git</pre>
- 
+<pre>git clone https://github.com/matbot-kmitl/lab.git</pre>
+
 Install required dependencies
 
 <pre>yarn install</pre>
-
 
 Start the server
 
@@ -21,4 +21,4 @@ Start the server
 
 ### More
 
-Modify pages content in  `src/content_option.js`.
+Modify pages content in `src/content_option.js`.
