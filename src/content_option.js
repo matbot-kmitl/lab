@@ -22,9 +22,9 @@ const dataproject = [{
     link: "https://matbot.kmitl.ac.th/lab/projects/micro/",
 },
     // {
-    //     img: "./projects/second_project/cover.png",
-    //     desctiption: "Second Project",
-    //     link: "https://matbot.kmitl.ac.th/lab/second_project/",
+    //     img: "./assets/test/cover.png",
+    //     desctiption: "Test Project",
+    //     link: "https://matbot.kmitl.ac.th/lab/projects/test/",
     // },
 ];
 // Stop Edit here
